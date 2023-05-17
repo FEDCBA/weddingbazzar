@@ -1,0 +1,9 @@
+.circle-counter {
+    position: relative;
+    text-align: center;
+}
+.circle-counter canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

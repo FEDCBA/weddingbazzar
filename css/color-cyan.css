@@ -1,0 +1,80 @@
+
+
+/*==========================================================================================================================================
+/*==========================================================================================================================================
+	Template Accent Color Setup
+============================================================================================================================================
+============================================================================================================================================*/
+
+::selection {
+	color: #ffffff;
+	background-color: #7ececf;
+}
+::-moz-selection {
+	color: #ffffff;
+	background-color: #7ececf;
+}
+
+/*==========================================================*/
+/*========== F O N T    C O L O R    S K I N S =============*/
+/*==========================================================*/
+
+/* Cyan ------------------*/
+
+a, .color-accent, header nav > ul > li:hover > a, header nav > ul ul li:hover > a, .icon-box-1 i, .icon-box-3 .box-header .arrow-right i, .icon-box-3 .box-header .arrow-bottom i, 
+.latest-posts .post .post-meta span, .button-outline.color-accent, .latest-posts .post h6:hover, .accordion-1 .ui-accordion .ui-accordion-header.ui-state-active, .widget-search a:hover, 
+.accordion-1 .ui-accordion .ui-accordion-header.ui-state-hover.ui-state-active, .accordion-1 .ui-accordion .ui-accordion-header.ui-state-hover, .testimonials-slider .client-info h6, 
+.footer-widgets .widget.widget-posts a:hover, footer .menu li a:hover, .latest-news .post .post-title:hover, header.style-2 nav > ul > li:hover > a, header.style-2 nav > ul ul li:hover > a, 
+ header nav ul > li.active > a, header.style-2 nav ul > li.active > a, .projects-slider-1 .arrow-right, .projects-slider-1 .arrow-left, .icon-box-6 i, .sidebar .widget.widget-posts a:hover, 
+ .testimonials-slider-3 .flexslider .slides > li .author, .projects-slider-2 .projects .arrow_left, .projects-slider-2 .projects .arrow_right, .posts-slider .item .post-title:hover, 
+ header .shopping-bag.active i, header .shopping-bag:hover i, .tp-caption.color-accent, .button-small.color-accent, .button-regular.color-accent, .button-large.color-accent, 
+ .button-small.hover-color-accent:hover, .button-regular.hover-color-accent:hover, .button-large.hover-color-accent:hover, .button-outline.hover-color-accent:hover, .hover-color-accent:hover, 
+ header .header-search-form .close:hover, header .header-search .header-search-button:hover, header.style-2 .header-search .header-search-button, header.style-2 .header-search-form .close:hover,
+ .team-member-single .next-member:hover, .sidebar .widget-categories a:hover, .footer-widgets .widget-categories a:hover, .sidebar .widget-archives a:hover, .post-single .post-meta a:hover, 
+ .footer-widgets .widget-archives a:hover, .footer-widgets .widget-tags a:hover, .latest-news.style-1 .post .post-title:hover, .posts-container .post-content a:hover,
+ .posts-container .post-meta .meta a:hover, .posts-container .post-title:hover, .posts-container-mini .post-meta .meta a:hover, .posts-container-mini .post-title:hover, 
+ .post-single .post-tags a:hover, .post-single .post-author .author-info h6, .shop-top-bar .shop-navigation a:hover, .shop-top-bar .product-search a:hover, ul.products .product-category:hover,
+ .shop-top-bar .shop-navigation a:hover i, ul.products .product-price, ul.products .product-name:hover, .product-single .product-inner .product-price, .project-single .project-meta span, 
+ .product-single .product-inner .product-category:hover, .product-single .product-info a:hover, .shop-cart .cart-table td.product-total, .project-single .project-title, 
+ .sidebar .widget-menu a:hover, .footer-widgets .widget-menu a:hover, .widget-menu li.active a, .toggle-1 .ui-accordion .ui-accordion-header.ui-state-active, 
+ .toggle-1 .ui-accordion .ui-accordion-header.ui-state-hover.ui-state-active, .toggle-1 .ui-accordion .ui-accordion-header.ui-state-hover, .color-switcher .panel-handle:hover {
+	color: #7ececf!important;
+}
+
+
+/*======================================================================*/
+/*========== B A C K G R O U N D    C O L O R    S K I N S =============*/
+/*======================================================================*/
+
+/* Cyan ------------------*/
+
+.bg-accent, .featured-projects .portfolio-item .overlay:before, .icon-box-2 i, .button-small.bg-accent, .button-regular.bg-accent, .button-large.bg-accent, 
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, .widget-flickr a .overlay, .featured-projects-2 .project .overlay:before, 
+.slideshow-container-2 .text-slider .flex-control-paging li a, .icon-box-4:hover, .icon-box-5 h6:before, .icon-box-6:hover:before, .counter-bar .bar span, .sidebar .widget > h5 span:after, 
+.projects-slider-2 .projects .project .overlay, .projects-slider-2 .projects .project h3, .featured-projects-3 .portfolio-project .overlay:before, .sidebar .widget-tags a:hover, 
+.featured-projects-3 .portfolio-project .project-info, .posts-slider .item .post-media:hover .overlay:before, header .shopping-bag span, .tp-caption.bg-accent, .countdown-counter .countdown-period,
+.button-small, .button-regular, .button-large, .button-small.hover-bg-accent:hover, .button-regular.hover-bg-accent:hover, .button-large.hover-bg-accent:hover, .hover-bg-accent:hover, 
+ul.products .product-media .overlay:before, .widget-pricefilter .ui-slider-horizontal .ui-slider-handle, .tabs-1 .ui-tabs .ui-tabs-nav li.ui-state-hover, .pricing-tables-1 .table.active .header, 
+.tabs-1 .ui-tabs .ui-tabs-nav li.ui-state-active, .projects-slider-3 .filter-links a:hover, .projects-slider-3 .filter-links a.active, .fonticons-set a:hover, .pricing-tables-2 .table .header, 
+.projects-slider-3.style-1 figure:before, .projects-slider-3.style-2 .project-info:before, .projects-slider-3.style-3 figure:before, .pricing-tables-1 .table.active ul, 
+.pricing-tables-2 .table .activate:hover, .pricing-tables-3 .table .activate, .tabs-2 .ui-tabs .ui-tabs-nav .ui-tabs-active, .tabs-2 .ui-tabs .ui-tabs-nav li.ui-state-hover, 
+.tabs-2 .ui-tabs .ui-tabs-nav li.ui-state-focus, .icon-box-3 .box-header:hover, .latest-news .post .overlay:before, .posts-container .post-media .overlay:before, 
+.posts-container-mini .post-media .overlay:before, body.dark .latest-posts .post .post-date .month {
+	background-color: #7ececf!important;
+}
+/*==============================================================*/
+/*========== B O R D E R    C O L O R    S K I N S =============*/
+/*==============================================================*/
+
+/* Cyan ------------------*/
+
+.border-accent, header nav > ul > li > a:hover, .button-outline.border-accent, .icon-box-1:hover, .testimonials-slider-2 .flexslider .flex-control-thumbs .flex-active, 
+.projects-slider-1 .arrow-right:hover, .projects-slider-1 .arrow-left:hover, .icon-box-6:hover, .testimonials-slider-3 .flexslider .flex-control-thumbs .flex-active, .tp-caption.border-accent, 
+.button-small.border-accent, .button-regular.border-accent, .button-large.border-accent, .button-small.hover-border-accent:hover, .button-regular.hover-border-accent:hover, 
+.button-large.hover-border-accent:hover, .button-outline.hover-border-accent:hover, .button-small, .button-regular, .button-large, .hover-border-accent:hover, .footer-widgets .widget-tags a:hover,
+.contact-form input:not([type="submit"]):focus, .contact-form textarea:focus, .email-notify input[type=email]:focus, .widget-search input[type=text]:focus, 
+.shop-top-bar .product-search input[type=text]:focus, .shop-cart .cart-coupon input[type=text]:focus, .shop-cart .cart-shipping input[type=text]:focus, .shop-cart .cart-shipping select:focus, 
+.shop-cart-checkout select:focus, .shop-cart-checkout input[type=text]:focus, .shop-cart-checkout input[type=email]:focus, .team-member .member-image:hover, 
+.shop-account select:focus, .shop-account input[type=text]:focus, .shop-account input[type=email]:focus, .shop-account input[type=password]:focus {
+	border-color: #7ececf!important;
+}
